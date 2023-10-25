@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Coverage with JaCoCo and Maven,hu.bme.mit.spaceship,TorpedoStore,9,75,2,8,4,22,2,8,0,5
+Coverage with JaCoCo and Maven,hu.bme.mit.spaceship,CommandLineInterface,55,144,4,8,14,33,8,8,4,6
+Coverage with JaCoCo and Maven,hu.bme.mit.spaceship,CommandLineInterface.OptionalOutput,10,14,2,2,2,7,2,3,0,3
+Coverage with JaCoCo and Maven,hu.bme.mit.spaceship,GT4500,2,132,1,20,1,32,2,13,1,3
+Coverage with JaCoCo and Maven,hu.bme.mit.spaceship,FiringMode,0,15,0,0,0,2,0,1,0,1
